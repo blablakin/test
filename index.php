@@ -2,7 +2,7 @@
   //first commit
 	include_once "db.php";
 
-
+	//new commit
     spl_autoload_register(function($class){
     	include_once "classes/$class.php";
     });
