@@ -16,5 +16,7 @@
      	include_once "view/index.php";
 ?>
 
+
+
 <a href="http://cms.loc/?start=about">about</a>
 <a href="http://cms.loc/?start=contacts">contacts</a>
